@@ -1,0 +1,13 @@
+{
+  "type": "facebook_messenger",
+  "name": "Pradeep",
+  "mode": "production",
+  "webhook": {
+    "url": "http://facebook.com",
+    "secret": "8YNmKrNLle1W2fa1BQ2Kg0jircOtOL"
+  },
+  "facebook_page": {
+    "id": "102852141502104",
+    "access_token": "EAAZAqmOEDma8BAE1kXhRZB0w7HasZB42NdexlWJZC4xzLEvGbbpHI5xVsI8Rsp9zUymxvHk0ea05qJtOY7m4WEPAWR3czzZAakC4bNEoOO1bPZAlDM6I92HZAYqOpMoXnEnGuJGRQWNifix8VGSQUiHIBZCPRSZA8ZBePfJ5KZACZAT1jgZDZD"
+  }
+}

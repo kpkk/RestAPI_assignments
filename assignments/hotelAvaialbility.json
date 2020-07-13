@@ -1,0 +1,16 @@
+{
+    "stay": {
+        "checkIn": "2020-06-17",
+        "checkOut": "2020-06-18"
+    },
+    "occupancies": [
+        {
+            "rooms": 1,
+            "adults": 1,
+            "children": 0
+        }
+    ],
+    "destination": {
+        "code": "MCO"
+    }
+}

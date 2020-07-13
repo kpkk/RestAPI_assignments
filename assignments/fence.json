@@ -1,0 +1,13 @@
+{
+  "name": "indiana jones",
+  "type": "Feature",
+  "geometry": {
+    "radius": 77,
+    "type": "Point",
+    "shapeType": "Circle",
+    "coordinates": [-67.137343, 45.137451]
+  },
+  "properties": {
+    "maxSpeedKmh": 70
+  }
+}
